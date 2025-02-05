@@ -4,6 +4,8 @@
 
 I'm a passionate software engineer with a strong focus on **Golang**, **cybersecurity**, and **cloud security auditing**. I enjoy building secure and efficient systems, diving deep into **penetration testing**, and optimizing **AWS security**. 
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Golang+Backend+Developer;Cybersecurity+Enthusiast;AWS+Cloud+Security+Auditor;Passionate+about+Pentesting)  
+
 🔹 **What I do:**  
 - 🏗 Developing secure and scalable backend applications in **Golang**  
 - 🔐 Conducting **penetration testing** and security research  

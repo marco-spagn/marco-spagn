@@ -22,8 +22,6 @@ I'm also an **electronic music producer and DJ** 🎛, passionate about **privac
 
 📫 **Let’s connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marco-spagnuolo)  
-- 🌍 [GitHub](https://github.com/marco-spagnuolo)  
-- 🎧 Sound experiments? Stay tuned! 🎶  
 
 _“Security is a process, not a product.”_ 🛡
 

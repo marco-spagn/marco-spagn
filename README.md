@@ -19,8 +19,7 @@ I'm a passionate software engineer with a strong focus on **Golang**, **cybersec
 🔹 **Cloud**: AWS, Terraform, CloudFormation  
 🔹 **Development**: Docker, GitHub Actions  
 
-🎶 **Beyond coding...**  
-I'm also an **electronic music producer and DJ** 🎛, passionate about **privacy & cryptology**, and an active **Capture the Flag (CTF) competitor**. When I’m not coding or testing security, you’ll probably find me in the gym, at the pool, or making beats. 
+
 
 📫 **Let’s connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marco-spagnuolo)  

@@ -12,13 +12,6 @@ I'm a passionate software engineer with a strong focus on **Golang**, **distribu
 - 🎯 Performing **Red Teaming** exercises and adversarial simulations
 - ☁️ Auditing and securing cloud environments (**AWS, Azure, GCP**)
 
-💡 **Tech stack & tools:**
-🔹 **Languages**: Golang, C, Python, Java, Bash
-🔹 **Blockchain & Crypto**: Solidity, Rust, Cryptography, L1/L2 protocols
-🔹 **AI & Agents**: Python, LangChain, LangGraph, CrewAI, AutoGen, LLM architectures, Agentic workflows
-🔹 **Cloud**: AWS, Azure, GCP, Terraform, CloudFormation
-🔹 **Security**: Purple Team,
-🔹 **Development**: Docker, GitHub Actions
 
 📫 **Let’s connect!**
 - 💼 [LinkedIn](https://www.linkedin.com/in/marco-spagnuolo-889857112/)
